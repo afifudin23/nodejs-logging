@@ -1,0 +1,35 @@
+{
+    "date": "Sat Apr 08 2023 17:52:06 GMT+0700 (Western Indonesia Time)",
+    "error": "Upss!!",
+    "exception": true,
+    "level": "error",
+    "message": "unhandledRejection: Upss!!\n  No stack trace",
+    "os": {
+        "loadavg": [
+            7.32,
+            6.95,
+            8.06
+        ],
+        "uptime": 641374.16
+    },
+    "process": {
+        "argv": [
+            "/data/data/com.termux/files/usr/bin/node",
+            "/data/data/com.termux/files/home/learn-logging-nodejs/src/logger-rejections.js"
+        ],
+        "cwd": "/data/data/com.termux/files/home/learn-logging-nodejs",
+        "execPath": "/data/data/com.termux/files/usr/bin/node",
+        "gid": 10197,
+        "memoryUsage": {
+            "arrayBuffers": 125397,
+            "external": 2198414,
+            "heapTotal": 8830976,
+            "heapUsed": 5241176,
+            "rss": 26685440
+        },
+        "pid": 27446,
+        "uid": 10197,
+        "version": "v18.14.1"
+    },
+    "trace": []
+}
